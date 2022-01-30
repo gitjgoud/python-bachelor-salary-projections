@@ -34,10 +34,16 @@ Parties who may be interested in this analysis include:
 * provides comparison of search interest over time for select degrees
 * used in secondary analysis
 
+NOTE1: While NACE has data for salary projections for the last few decades, they only are have reports available online for 2015-present. This analysis may be updated upon (pending) aquistion of historical data.
+
+NOTE2: At the time this analysis was complete, the most recent NCES data is only updated for the graduating class of 2019.
+
 ## Project Structure
 
-## Results of Analys
+* salary_projection_by_category.ipynb - analysis of degree category projected salaries and popularity
+* salary_projection_by_degree.ipynb - analysis of top degrees in demand projected salaries and popularity
+* eng_degree_pop_vs_google_search.ipynb - secondary analyis of google search trends and popularity for select degrees
 
-## Secondary Analysis
+NOTE: There were significant irregularities and inconsistentcioes in data formatting, reporting, and html page structure year to year in both NCES and NACE data sets. With the exception of projected salaries by category, a significant portion of data cleaning/formatting and table preparation was done using spreadsheets prior to exporting to CSV. This work is not reflected in the notebooks above.
 
 ## Recommendations and Next Steps
