@@ -45,6 +45,8 @@ NOTE2: At the time this analysis was performed, the most recent NCES data is onl
 * `salary_projection_by_degree.ipynb` - analysis of top degrees in demand projected salaries and popularity
 * `eng_degree_pop_vs_google_search.ipynb` - secondary analyis of google search trends and popularity for select degrees
 
+[Data Dictionary](https://docs.google.com/spreadsheets/d/1AkXF-7gnJlGtv7-OI2bpUw02iwTNO570HC55qNCRpes/edit?usp=sharing)
+
 NOTE3: There were significant irregularities and inconsistencies in data formatting, reporting, and html page structure year to year in both NCES and NACE data sets. With the exception of projected salaries by category, a significant portion of data cleaning/formatting and table preparation was done using spreadsheets prior to exporting to CSV. This work is not reflected in the notebooks above.
 
 ## Analysis
